@@ -1,0 +1,72 @@
+Commands :
+1. pip install PyOpenGL PyOpenGL_accelerate
+2. pip install glfw or
+3. pip install pygame
+
+
+# **📘 Project Brief – 3D/2D Design & Animation Module**
+
+## **1. Upcoming Presentation (Next Week) – Idea Proposal**
+
+Each group must prepare a presentation that includes:
+
+### **1.1 Title Slide**
+
+* **Project Title**
+* **Group Member Names**
+* **Faculty Name**
+
+### **1.2 Idea Proposal Requirements**
+
+Present **at least three (3) project ideas**, each containing:
+
+* **Idea Description**
+  (Clear explanation of concept, purpose, and key features)
+* **Demo Image or Video Link**
+  (Reference visuals, sketches, or sample inspiration)
+
+### **1.3 Object List**
+
+For each proposed idea, include:
+
+* **List of objects** you plan to model in 3D
+  (e.g., characters, environment assets, props)
+
+---
+
+## **2. Lab Overview**
+
+### **2.1 Lab 3**
+
+* **OpenGL Exam**
+* **Introduction to Blender**
+  (Basic navigation, interface, tools overview)
+
+### **2.2 Labs 4, 5, and 6**
+
+Focused entirely on **Blender**:
+
+* **Modeling** (Creating 3D objects)
+* **Rigging** (Skeleton setup for animation)
+* **Animation** (Movement, keyframes, scenes)
+
+---
+
+## **3. Final Week – Project Presentation**
+
+Students will present their **completed 3D project**, showcasing all work done throughout the module.
+
+---
+
+## **4. Evaluation Breakdown**
+
+| Component                                       | Weightage  |
+| ----------------------------------------------- | ---------- |
+| **3D Project**                                  | **50–60%** |proposal 5-10%,project update 1,project update 2 10%
+| **2D Evaluation + Assessment**                  | **35%**    |
+| **3D Report + Final Presentation**              | **10%**    |
+| **Observation (Class participation, progress)** | **5%**     |
+
+
+blender 2.8x or updated version
+use your own laptop or pc
