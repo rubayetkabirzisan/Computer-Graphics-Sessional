@@ -7,8 +7,8 @@ def draw_triangle(x):
     glColor3f(1.0, 0.0, 0.0)
 
     glVertex2f(x, 0.5)          # Top
-    glVertex2f(x - 0.3, -0.5)   # Bottom left
-    glVertex2f(x + 0.3, -0.5)   # Bottom right
+    glVertex2f(x - 0.5, -0.5)   # Bottom left
+    glVertex2f(x + 0.5, -0.5)   # Bottom right
 
     glEnd()
 
@@ -43,4 +43,4 @@ while not glfw.window_should_close(window):
 
 glfw.terminate()
 
-# py "e:\Graphics_Sessional\Day_02_Graphics_Sessional\moving_triangle.py"
+# py "e:\Graphics_Sessional\Day_02_Graphics_Sessional\bullet.py"
